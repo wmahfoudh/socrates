@@ -87,7 +87,7 @@ Enhance your learning experience with creative commands. For example:
 - Last-minute Tips and Best Practices
 ```
 
-`start`
+`/start`
 
 ```
 # Lesson 1: Introduction to Business Intelligence & Power BI
