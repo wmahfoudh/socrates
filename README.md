@@ -44,7 +44,8 @@ Enhance your learning experience with creative commands. For example:
   Interact with Socrates throughout your lessons—your questions and responses help to customize the learning experience to your needs.
 
 ## Example 
-```
+`/plan PL-300 exam preparation`
+
 # PL-300 Exam Preparation Plan
 
 ## Level 1: Fundamentals of Data Analytics
@@ -83,4 +84,3 @@ Enhance your learning experience with creative commands. For example:
 - Practice Exams and Timed Mock Tests
 - Understanding Exam Question Types
 - Last-minute Tips and Best Practices
-```
