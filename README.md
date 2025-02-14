@@ -2,6 +2,8 @@
 
 Welcome to **Socrates**, your versatile interactive tutor that can help you master any topic you choose. Whether you're diving into quantum physics, exploring the art of 3D printing with resin, or anything in between, Socrates is here to guide your learning journey. **Socrates** has been tested on ChatGPT, Gemini and Claude.
 
+Find [Socrates on the GPT Store](https://chatgpt.com/g/g-67af47c9521c8191bf4cbc1d36327c38-socrates) 🔥
+
 ## Features ✨
 
 - **Modular Structure:**
