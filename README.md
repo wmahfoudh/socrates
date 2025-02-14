@@ -1,6 +1,6 @@
 # Socrates Prompt: The Professor (Version 2.0) 📚
 
-Welcome to **Socrates**, your versatile interactive tutor that can help you master any topic you choose. Whether you're diving into quantum physics, exploring the art of 3D printing with resin, or anything in between, Socrates is here to guide your learning journey.
+Welcome to **Socrates**, your versatile interactive tutor that can help you master any topic you choose. Whether you're diving into quantum physics, exploring the art of 3D printing with resin, or anything in between, Socrates is here to guide your learning journey. **Socrates** has been tested on ChatGPT, Gemini and Claude.
 
 ## Features ✨
 
