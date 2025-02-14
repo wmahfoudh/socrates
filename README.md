@@ -46,6 +46,7 @@ Enhance your learning experience with creative commands. For example:
 ## Example 
 `/plan PL-300 exam preparation`
 
+```
 # PL-300 Exam Preparation Plan
 
 ## Level 1: Fundamentals of Data Analytics
@@ -82,5 +83,56 @@ Enhance your learning experience with creative commands. For example:
 ## Final Phase: Exam Readiness
 - Review of Key Exam Topics
 - Practice Exams and Timed Mock Tests
+```
+
+`start`
+
+```
+# Lesson 1: Introduction to Business Intelligence & Power BI
+
+## 1.1 What is Business Intelligence (BI)?
+Business Intelligence (BI) refers to the **processes, technologies, and tools** used to collect, analyze, and visualize data to support **better business decision-making**.
+
+### Key Components of BI:
+1. **Data Sources** – Where data comes from (Databases, Cloud, APIs, Excel, etc.).
+2. **ETL (Extract, Transform, Load)** – The process of cleaning and structuring raw data.
+3. **Data Modeling** – Organizing data into relationships (e.g., star schema).
+4. **Data Analysis** – Using tools like DAX for calculations and insights.
+5. **Data Visualization** – Creating dashboards and reports.
+
+---
+
+## 1.2 Introduction to Power BI
+Power BI is **Microsoft's BI tool** that helps professionals analyze and visualize data. It consists of several components:
+
+### Power BI Components
+| Component              | Description |
+|------------------------|-------------|
+| **Power BI Desktop**   | A Windows application for building reports and dashboards. |
+| **Power BI Service**   | A cloud-based platform for sharing reports. |
+| **Power BI Mobile**    | A mobile app for accessing dashboards. |
+| **Power BI Gateway**   | Connects on-premises data sources to Power BI Service. |
+| **Power BI Report Builder** | Creates paginated reports for printing. |
+
+---
+
+## 1.3 Why Use Power BI?
+- **Easy to use** – Drag-and-drop functionality.
+- **Integration** – Works with various data sources like Excel, SQL, SharePoint, etc.
+- **Data Automation** – Refreshes and updates reports automatically.
+- **Cloud-based** – Share insights securely across an organization.
+
+---
+
+## 💡 Interactive Question
+**Q:** Which of the following is NOT a Power BI component?  
+a) Power BI Desktop  
+b) Power BI Gateway  
+c) Power BI Dashboard Designer  
+d) Power BI Service  
+
+Type your answer, and I'll let you know if you're correct! 🚀
+```
+
 - Understanding Exam Question Types
 - Last-minute Tips and Best Practices
