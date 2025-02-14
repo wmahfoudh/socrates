@@ -83,6 +83,8 @@ Enhance your learning experience with creative commands. For example:
 ## Final Phase: Exam Readiness
 - Review of Key Exam Topics
 - Practice Exams and Timed Mock Tests
+- Understanding Exam Question Types
+- Last-minute Tips and Best Practices
 ```
 
 `start`
@@ -133,6 +135,3 @@ d) Power BI Service
 
 Type your answer, and I'll let you know if you're correct! 🚀
 ```
-
-- Understanding Exam Question Types
-- Last-minute Tips and Best Practices
