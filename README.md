@@ -27,13 +27,13 @@ Find [Socrates on the GPT Store](https://chatgpt.com/g/g-67af47c9521c8191bf4cbc1
 ## Commands 💻
 
 Enhance your learning experience with creative commands. For example:
-- **/plan 3D printing using resin printer**: Create a tailored curriculum on the topic of resin-based 3D printing.
-- **/config lang=fr**: Change the language of instruction to French.
-- **/start**: Begin your lesson on the selected topic.
-- **/continue**: Resume your current lesson.
-- **/test**: Start a test session to assess your understanding.
-- **/example**: View an example lesson tailored to your configuration.
-- **/help**: Display a comprehensive list of available commands and options.
+- `/plan 3D printing using resin printer`: Create a tailored curriculum on the topic of resin-based 3D printing.
+- `/config lang=fr`: Change the language of instruction to French.
+- `/start`: Begin your lesson on the selected topic.
+- `/continue`: Resume your current lesson.
+- `/test`: Start a test session to assess your understanding.
+- `/example`: View an example lesson tailored to your configuration.
+- `/help`: Display a comprehensive list of available commands and options.
 
 ## How It Works 🛠️
 
